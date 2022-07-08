@@ -1,7 +1,6 @@
 variable "resource_group_name" {
   type        = string
   description = "RG name in Azure"
-  default = "aks_tf_rg"
 }
 variable "location" {
   type        = string
