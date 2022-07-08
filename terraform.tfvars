@@ -1,6 +1,6 @@
-resource_group_name = "aks_tf_rg"
+resource_group_name = "akstfrg"
 location            = "eastus"
-cluster_name        = "devops-coach-aks"
+cluster_name        = "devopsaks"
 kubernetes_version  = "1.19.13"
 system_node_count   = 2
 acr_name            = "myacr3210"
